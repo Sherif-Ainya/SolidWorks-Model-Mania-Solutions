@@ -19,6 +19,9 @@ This repository contains my **SolidWorks** sketches and solutions for Model Mani
 
 ---
 
-@‎𝑆ℎ𝑒𝑟𝑖𝑓 𝐴𝑖𝑛𝑦𝑎
+## Contributors
+* **Sherif Ainya** – [GitHub](https://github.com/Sherif-Ainya)
+* **Mohammed Ghlion** - [Github](https://github.com/MohammedGhlion)
+* 
 
 ---

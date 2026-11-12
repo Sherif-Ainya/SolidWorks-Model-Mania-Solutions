@@ -16,4 +16,9 @@ This repository contains my **SolidWorks** sketches and solutions for Model Mani
 
 ## Telegram Archive
 * All prepared Model Mania sketches for **Phase 1 & Phase 2 (2000 - 2025)** are organized in this [Telegram Channel](https://t.me/Mecha_Hub/3411/3698).
-* 
+
+---
+
+@‎𝑆ℎ𝑒𝑟𝑖𝑓 𝐴𝑖𝑛𝑦𝑎
+
+---
